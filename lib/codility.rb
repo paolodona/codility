@@ -1,6 +1,3 @@
 require "codility/version"
+require "cyclic_rotation"
 
-module Lesson02
-  def solution(n)
-  end
-end
